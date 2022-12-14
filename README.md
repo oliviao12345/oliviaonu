@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliviaonu
 - 👀 I’m interested in learning and building cool projects
-- 🌱 I’m currently learning Python,SQL,Java and C#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Linkedin: OliviaOnu
 
 <!---
