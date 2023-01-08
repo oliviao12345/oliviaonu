@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oliviaonu
+- 👋 Hi
 - 👀 I’m interested in learning and building cool projects
 - 🌱 I’m currently learning C#
 - 📫 How to reach me Linkedin: OliviaOnu
